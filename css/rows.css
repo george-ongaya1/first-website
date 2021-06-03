@@ -24,7 +24,6 @@
    background-color:#ff9966;
    margin-bottom:10px;
    text-align:center;
- 
     
  }
  footer{
@@ -33,4 +32,6 @@
    text-align:center;
    font-weight:bold;
  }
-  
+  #into.p{
+    text-decoration: underline;
+  }
