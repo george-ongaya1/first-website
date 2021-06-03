@@ -1,0 +1,36 @@
+ body{
+   width:800px;
+   margin:auto;
+ }
+ header, nav, article, footer{
+   display:block;
+ }
+ header{
+   width:800px;
+   background-color:#ff9966;
+   text-align:center;
+   margin:auto;
+ }
+ nav{
+   width:25%;
+   float:left;
+   background-color:#ff9966;
+   margin-bottom:10px;
+   padding:10px;
+ }
+ article{
+   width:70%;
+   float:right;
+   background-color:#ff9966;
+   margin-bottom:10px;
+   text-align:center;
+ 
+    
+ }
+ footer{
+   clear:both;
+   background-color:#ff9966;
+   text-align:center;
+   font-weight:bold;
+ }
+  
