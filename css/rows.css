@@ -1,6 +1,7 @@
  body{
    width:800px;
    margin:auto;
+    
  }
  header, nav, article, footer{
    display:block;
